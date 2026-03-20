@@ -1,0 +1,7 @@
+# NAME: Playstation Domain
+# UPDATED: 2026-03-20 23:59:38
+payload:
+  - DOMAIN-SUFFIX,playstation
+  - DOMAIN-SUFFIX,playstation.com
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
