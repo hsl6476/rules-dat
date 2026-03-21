@@ -1,5 +1,5 @@
 # NAME: Private Domain
-# UPDATED: 2026-03-20 23:58:45
+# UPDATED: 2026-03-21 20:42:27
 payload:
   - DOMAIN-SUFFIX,instant.arubanetworks.com
   - DOMAIN-SUFFIX,setmeup.arubanetworks.com
