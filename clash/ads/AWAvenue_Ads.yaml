@@ -1,5 +1,5 @@
 # NAME: AWAvenue Ads Domain
-# UPDATED: 2026-03-21 20:43:02
+# UPDATED: 2026-04-25 14:49:32
 payload:
   - DOMAIN,1500020991.vodplayer.wxamedia.com
   - DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -197,6 +197,7 @@ payload:
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
   - DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net
+  - DOMAIN,api-access.pangolin-sdk-toutiao-b.com
   - DOMAIN,api-access.pangolin-sdk-toutiao.com
   - DOMAIN,api-access.pangolin-sdk-toutiao1.com
   - DOMAIN,api-access.pangolin-sdk-toutiao2.com
@@ -544,6 +545,7 @@ payload:
   - DOMAIN,mobads.baidu.com
   - DOMAIN,mobaliyun.res.mgtv.com
   - DOMAIN,mobile.da.mgtv.com
+  - DOMAIN,mobile.events.data.microsoft.com
   - DOMAIN,mobilead.kuwo.cn
   - DOMAIN,mobilelog.kugou.com
   - DOMAIN,mobilelog.upqzfile.com

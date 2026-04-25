@@ -1,5 +1,5 @@
 # NAME: Microsoft@Cn Domain
-# UPDATED: 2026-03-21 20:42:43
+# UPDATED: 2026-04-25 14:49:25
 payload:
   - DOMAIN-SUFFIX,dcg.microsoft.com
   - DOMAIN-SUFFIX,dynamics.cn
