@@ -1,5 +1,5 @@
 # NAME: Apple Domain
-# UPDATED: 2026-04-25 14:49:23
+# UPDATED: 2026-05-01 12:22:56
 DOMAIN-SUFFIX,ingest.apple-studies.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,configuration-lb.ls-apple.com.akadns.net
@@ -1579,6 +1579,7 @@ DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,su.itunes.apple.com
 DOMAIN-SUFFIX,sync.itunes.apple.com
 DOMAIN-SUFFIX,tf-feedback.itunes.apple.com
+DOMAIN-SUFFIX,universal-activity-service.itunes.apple.com
 DOMAIN-SUFFIX,upp.itunes.apple.com
 DOMAIN-SUFFIX,www.support.apple.com
 DOMAIN-SUFFIX,a1.mzstatic.com
