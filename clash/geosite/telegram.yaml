@@ -1,5 +1,5 @@
 # NAME: Telegram Domain
-# UPDATED: 2026-05-01 12:23:01
+# UPDATED: 2026-05-24 20:56:28
 payload:
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,comments.app

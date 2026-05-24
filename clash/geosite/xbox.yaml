@@ -1,5 +1,5 @@
 # NAME: Xbox Domain
-# UPDATED: 2026-05-01 12:22:59
+# UPDATED: 2026-05-24 20:56:26
 payload:
   - DOMAIN-SUFFIX,flightsimulator.azureedge.net
   - DOMAIN-SUFFIX,prodforza.blob.core.windows.net

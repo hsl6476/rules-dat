@@ -1,5 +1,5 @@
 # NAME: Steam@Cn Domain
-# UPDATED: 2026-05-01 12:23:02
+# UPDATED: 2026-05-24 20:56:29
 payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamusercontent.com

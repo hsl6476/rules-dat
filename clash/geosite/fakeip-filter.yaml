@@ -1,5 +1,5 @@
 # NAME: Fakeip Filter Domain
-# UPDATED: 2026-05-01 12:22:52
+# UPDATED: 2026-05-24 20:56:19
 payload:
   - DOMAIN-SUFFIX,*
   - DOMAIN-SUFFIX,*.lan
