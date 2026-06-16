@@ -1,5 +1,5 @@
 # NAME: Github Domain
-# UPDATED: 2026-05-24 20:56:29
+# UPDATED: 2026-06-16 17:31:48
 DOMAIN-SUFFIX,github-api.arkoselabs.com
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,github-production-release-asset-2e65be.s3.amazonaws.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog

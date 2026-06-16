@@ -1,5 +1,5 @@
 # NAME: Spotify Domain
-# UPDATED: 2026-05-24 20:56:27
+# UPDATED: 2026-06-16 17:31:47
 payload:
   - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,audio4-ak-spotify-com.akamaized.net
