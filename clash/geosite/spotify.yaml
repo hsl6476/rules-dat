@@ -1,5 +1,5 @@
 # NAME: Spotify Domain
-# UPDATED: 2026-06-16 17:31:47
+# UPDATED: 2026-08-05 20:27:39
 payload:
   - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,audio4-ak-spotify-com.akamaized.net
@@ -10,19 +10,21 @@ payload:
   - DOMAIN-SUFFIX,spotify.map.fastly.net
   - DOMAIN-SUFFIX,spotify.map.fastlylb.net
   - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spoti.fi
   - DOMAIN-SUFFIX,spotify-everywhere.com
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotify.design
+  - DOMAIN-SUFFIX,spotify.link
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotifycdn.net
   - DOMAIN-SUFFIX,spotifycharts.com
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
-  - DOMAIN-SUFFIX,spotify.link
   - DOMAIN-SUFFIX,tospotify.com
   - DOMAIN-SUFFIX,adeventtracker.spotify.com
   - DOMAIN-SUFFIX,adstudio-assets.scdn.co

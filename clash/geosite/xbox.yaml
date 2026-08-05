@@ -1,8 +1,8 @@
 # NAME: Xbox Domain
-# UPDATED: 2026-06-16 17:31:46
+# UPDATED: 2026-08-05 20:27:38
 payload:
-  - DOMAIN-SUFFIX,flightsimulator.azureedge.net
   - DOMAIN-SUFFIX,prodforza.blob.core.windows.net
+  - DOMAIN-SUFFIX,flightsimulator.azureedge.net
   - DOMAIN-SUFFIX,xbox
   - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,orithegame.com
@@ -27,14 +27,6 @@ payload:
   - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
-  - DOMAIN-SUFFIX,asobostudio.com
-  - DOMAIN-SUFFIX,flightsimulator.com
-  - DOMAIN-SUFFIX,beth.games
-  - DOMAIN-SUFFIX,bethesda.net
-  - DOMAIN-SUFFIX,bethesdagamestudios.com
-  - DOMAIN-SUFFIX,bethsoft.com
-  - DOMAIN-SUFFIX,doom.com
-  - DOMAIN-SUFFIX,elderscrolls.com
   - DOMAIN-SUFFIX,forza.net
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,forzaracingchampionship.com
@@ -45,4 +37,12 @@ payload:
   - DOMAIN-SUFFIX,minecraftservices.com
   - DOMAIN-SUFFIX,minecraftshop.com
   - DOMAIN-SUFFIX,mojang.com
+  - DOMAIN-SUFFIX,asobostudio.com
+  - DOMAIN-SUFFIX,flightsimulator.com
+  - DOMAIN-SUFFIX,beth.games
+  - DOMAIN-SUFFIX,bethesda.net
+  - DOMAIN-SUFFIX,bethesdagamestudios.com
+  - DOMAIN-SUFFIX,bethsoft.com
+  - DOMAIN-SUFFIX,doom.com
+  - DOMAIN-SUFFIX,elderscrolls.com
   - DOMAIN-SUFFIX,xboxlive.cn
