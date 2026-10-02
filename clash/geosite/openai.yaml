@@ -1,5 +1,5 @@
 # NAME: Openai Domain
-# UPDATED: 2026-08-05 20:27:33
+# UPDATED: 2026-10-02 11:56:35
 payload:
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaiassets.blob.core.windows.net

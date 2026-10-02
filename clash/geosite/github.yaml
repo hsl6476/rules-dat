@@ -1,5 +1,5 @@
 # NAME: Github Domain
-# UPDATED: 2026-08-05 20:27:41
+# UPDATED: 2026-10-02 11:56:39
 payload:
   - DOMAIN-SUFFIX,github-api.arkoselabs.com
   - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
