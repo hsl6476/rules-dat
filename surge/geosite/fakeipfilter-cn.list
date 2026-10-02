@@ -1,5 +1,5 @@
 # NAME: Fakeipfilter Cn Domain
-# UPDATED: 2026-10-02 11:56:35
+# UPDATED: 2026-10-02 21:42:25
 DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,*.lan
 DOMAIN-SUFFIX,*.localdomain

@@ -1,5 +1,5 @@
 # NAME: Netflix IP
-# UPDATED: 2026-10-02 11:56:36
+# UPDATED: 2026-10-02 21:42:28
 payload:
   - IP-CIDR,9.187.0.0/16
   - IP-CIDR,9.188.0.0/16
