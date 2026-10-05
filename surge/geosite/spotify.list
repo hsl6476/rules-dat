@@ -1,5 +1,5 @@
 # NAME: Spotify Domain
-# UPDATED: 2026-10-05 23:15:00
+# UPDATED: 2026-10-05 23:33:37
 audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
 cdn-spotify-experiments.conductrics.com
@@ -8,23 +8,23 @@ heads4-ak-spotify-com.akamaized.net
 spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
-byspotify.com
-lifeatspotify.com
-pscdn.co
-scdn.co
-spoti.fi
-spotify-everywhere.com
-spotify.com
-spotify.design
-spotify.link
-spotifycdn.com
-spotifycdn.net
-spotifycharts.com
-spotifycodes.com
-spotifyforbrands.com
-spotifyforvendors.com
-spotifyjobs.com
-tospotify.com
+.byspotify.com
+.lifeatspotify.com
+.pscdn.co
+.scdn.co
+.spoti.fi
+.spotify-everywhere.com
+.spotify.com
+.spotify.design
+.spotify.link
+.spotifycdn.com
+.spotifycdn.net
+.spotifycharts.com
+.spotifycodes.com
+.spotifyforbrands.com
+.spotifyforvendors.com
+.spotifyjobs.com
+.tospotify.com
 adeventtracker.spotify.com
 adstudio-assets.scdn.co
 bloodhound.spotify.com
