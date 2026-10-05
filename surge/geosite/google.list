@@ -1,5 +1,5 @@
 # NAME: Google Domain
-# UPDATED: 2026-10-05 22:54:25
+# UPDATED: 2026-10-05 23:01:15
 google-ohttp-relay-safebrowsing.fastly-edge.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
@@ -952,16 +952,10 @@ analytics.google.com
 265.com
 gvt1-cn.com
 gvt2-cn.com
-=recaptcha-cn.net
-=recaptcha.net
+recaptcha-cn.net
+recaptcha.net
 www.recaptcha-cn.net
 www.recaptcha.net
-=2mdn-cn.net
-=2mdn.net
-=admob-cn.com
-=app-analytics-services.com
-=app-measurement-cn.com
-=app-measurement.com
 apps5.oingo.com
 avail.googleflights.net
 beacons.gcp.gvt2.com
@@ -980,12 +974,10 @@ clientservices.googleapis.com
 cn.widevine.com
 connectivitycheck.gstatic.com
 csi.gstatic.com
-=dartsearch-cn.net
+dartsearch-cn.net
 dg-meta.video.google.com
 dl.google.com
 dl.l.google.com
-=doubleclick-cn.net
-=doubleclick.net
 download.mlcc.google.com
 download.tensorflow.google.com
 fontfiles.googleapis.com
@@ -995,28 +987,11 @@ g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
-=gonglchuangl.net
-=gongyichuangyi.net
-=google-analytics-cn.com
-=google-analytics.com
-=googleadservices-cn.com
-=googleadservices.com
-=googleanalytics.com
-=googleapis-cn.com
-=googleapps-cn.com
-=googleflights-cn.net
-=googleoptimize-cn.com
-=googleoptimize.com
-=googlesyndication-cn.com
-=googlesyndication.com
-=googletagmanager-cn.com
-=googletagmanager.com
-=googletagservices-cn.com
-=googletagservices.com
-=googletraveladservices-cn.com
-=googletraveladservices.com
-=googlevads-cn.com
-=gstatic-cn.com
+gongyichuangyi.net
+googleapis-cn.com
+googleapps-cn.com
+googleflights-cn.net
+gstatic-cn.com
 gstaticadssl.l.google.com
 gtm.oasisfeng.com
 imasdk.googleapis.com
@@ -1025,7 +1000,7 @@ performanceparameters.googleapis.com
 prod-controlbe.floonet.goog
 prod-databe.floonet.goog
 prod.databe.floonet.goog
-=qiao-cn.com
+qiao-cn.com
 qpx.googleflights.net
 redirector.bdn.dev
 redirector.c.chat.google.com
