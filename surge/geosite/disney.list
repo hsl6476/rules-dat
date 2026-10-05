@@ -1,10 +1,10 @@
 # NAME: Disney Domain
-# UPDATED: 2026-10-05 22:40:06
-=disneyplus.com.ssl.sc.omtrdc.net
-=espn.api.edge.bamgrid.com
-=espn.hb.omtrdc.net
-=espndotcom.tt.omtrdc.net
-=hulu.playback.edge.bamgrid.com
+# UPDATED: 2026-10-05 22:54:16
+disneyplus.com.ssl.sc.omtrdc.net
+espn.api.edge.bamgrid.com
+espn.hb.omtrdc.net
+espndotcom.tt.omtrdc.net
+hulu.playback.edge.bamgrid.com
 callhulu.com
 disney.hu
 themarvelexperiencetour.com
@@ -223,4 +223,4 @@ disney.co.za
 disney.co.uk
 disney-portal.my.onetrust.com
 shanghaidisneyresort.com
-=disney.my.sentry.io
+disney.my.sentry.io

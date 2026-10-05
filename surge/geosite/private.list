@@ -1,17 +1,17 @@
 # NAME: Private Domain
-# UPDATED: 2026-10-05 22:40:05
-=instant.arubanetworks.com
-=setmeup.arubanetworks.com
+# UPDATED: 2026-10-05 22:54:14
+instant.arubanetworks.com
+setmeup.arubanetworks.com
 =asusrouter.com
-=router.asus.com
-=www.asusrouter.com
-=oasisauth.h3c.com
+router.asus.com
+www.asusrouter.com
+oasisauth.h3c.com
 =routerlogin.com
-=www.routerlogin.com
+www.routerlogin.com
 =tplogin.cn
 =miwifi.com
-=www.miwifi.com
-=local.adguard.org
+www.miwifi.com
+local.adguard.org
 internal
 localdomain
 example
